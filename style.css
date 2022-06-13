@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Acme&family=Akshar:wght@300&family=Patrick+Hand&display=swap");
 
 body {
-  background-image: url(../assets/cool-background.png);
+  background-image: url(./cool-background.png);
   background-attachment: fixed;
   color: lightblue;
   font-family: "Acme", sans-serif;
